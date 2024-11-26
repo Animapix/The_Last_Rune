@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The_Last_Rune", "The_Last_Rune.csproj", "{9C4D0A96-4A2C-4296-BC32-EC7711A0C03F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimapixGamingKit", "..\AnimapixGamingKit\AnimapixGamingKit.csproj", "{ADBEB743-70AD-4DBE-BBD6-6767F441131A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C4D0A96-4A2C-4296-BC32-EC7711A0C03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C4D0A96-4A2C-4296-BC32-EC7711A0C03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C4D0A96-4A2C-4296-BC32-EC7711A0C03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBEB743-70AD-4DBE-BBD6-6767F441131A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBEB743-70AD-4DBE-BBD6-6767F441131A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBEB743-70AD-4DBE-BBD6-6767F441131A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBEB743-70AD-4DBE-BBD6-6767F441131A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
